@@ -1,0 +1,15 @@
+{
+    "name":"masonry",
+    "version":"2.1.05",
+    "description":"The flip-side of CSS Floats. jQuery plugin that rearranges item elements to a grid.",
+    "homepage":"http://masonry.desandro.com",
+    "keywords":[
+        "masonry", "vertical", "float", "grid"
+    ],
+    "dependencies":{
+        "component/jquery":"*"
+    },
+    "scripts":[
+        "index.js"
+    ]
+}
